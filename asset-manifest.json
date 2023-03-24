@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Phasmophobia-Journal/static/css/main.6cad2e77.css",
-    "main.js": "/Phasmophobia-Journal/static/js/main.8920ee4e.js",
+    "main.css": "/Phasmophobia-Journal/static/css/main.65f8bbbc.css",
+    "main.js": "/Phasmophobia-Journal/static/js/main.2bcc92f9.js",
     "index.html": "/Phasmophobia-Journal/index.html",
-    "main.6cad2e77.css.map": "/Phasmophobia-Journal/static/css/main.6cad2e77.css.map",
-    "main.8920ee4e.js.map": "/Phasmophobia-Journal/static/js/main.8920ee4e.js.map"
+    "main.65f8bbbc.css.map": "/Phasmophobia-Journal/static/css/main.65f8bbbc.css.map",
+    "main.2bcc92f9.js.map": "/Phasmophobia-Journal/static/js/main.2bcc92f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cad2e77.css",
-    "static/js/main.8920ee4e.js"
+    "static/css/main.65f8bbbc.css",
+    "static/js/main.2bcc92f9.js"
   ]
 }
